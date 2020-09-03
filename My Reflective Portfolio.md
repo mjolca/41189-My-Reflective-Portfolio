@@ -52,3 +52,30 @@ Challenges I encountered over this module include understanding the concepts tha
 
 I intend on approaching the content of the next module with an open mind and put more effort and own research into understanding the content being presented as well as the concepts being portrayed.
 
+# Week 3-Module 3: A Supermarket of Models 
+
+### What have I learnt this week?
+
+This week I learnt about Modelling People and the 3 types of models used in order to model people. These types of models are; Rational models, Behavioural models as well as Rule-based models. I also learnt about decision-making models how we model this for normative reasons or positive reasons in order to predict why people make the decisions that they do. Alongside this, I learned about signalling models and how people send signals to reveal information or their type. This can be translated into someone who is wealthy purchasing a really expensive artwork. Furthermore, I learned about models that quantify the value and power of individuals and the use of both the last-on-the-bus value as well as the Shapley value and how they are used to produce the results of the model.
+
+### What do I ‘now know’ that I did not before? What insights have I gained?
+
+I have gained insight into the Shapley Value which is able to calculate one’s marginal contribution when they are added to a coalition averaged across all possible orderings in which the coalition of everyone forms. This, in essence, is just imagining the addition of a player to the coalition sequence and calculating each player’s added value for each sequence. The use of the Shapley value provides insight into the following conditions; efficiency, fairness and additivity. Overall the Shapley value is a measure of an individual’s added value. 
+
+I also have gained insights into how models can be geared to model an individual objective such as predicting the stock market, predicting human behaviour, predicting statistics in business etc in order to help achieve the desired outcome.
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+
+I have observed that through the use of multiple types of models a more efficient result can be apprehended when modelling people by combining results from rational models, behavioural models as well as rule-based models. Although the results from each will be slightly different they all provide significant value as they can be taken into account to produce a singular result to be able to model people effectively.
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+I don’t believe I encountered any significant challenges this week.
+
+### What would I do better next time with what anticipated results?
+
+I believe I could enhance my understanding of the concepts presented this week and use that knowledge to gain confidence when learning about upcoming modules.
+
+### What theory proved to be useful and why? What have I learnt from this?
+
+The Shapley Value proved to be useful due to how it is used to calculate an individual’s value contribution to a set coalition. This is very insightful as a prediction can be made as to how positively or negatively an individual might affect a coalition if they were to be added into it. I have learnt how to measure the value of adding an individual into a coalition and whether it may be worth it or not based on the result gained from the use of the Shapley Value.
