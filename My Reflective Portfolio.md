@@ -26,7 +26,7 @@ A passenger aircraft is part of a complex system of airports. I believe that the
 
 I don’t believe that the aircraft would be considered a complex adaptive system as it goes from point a to point b without having to adapt very much to anything. I believe it could be considered a complex adaptive system when weather is bad or if there is an emergency and the aircraft has to adapt to various circumstances.
 
-# Week 2-Module 2 — Understanding Complex Adaptive Systems: Many Model Thinking
+# Week 2-Module 2: Understanding Complex Adaptive Systems: Many Model Thinking
 
 ### What have I learnt this week?
 
