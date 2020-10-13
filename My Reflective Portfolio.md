@@ -126,3 +126,18 @@ I believe the most insightful aspect of this weeks module would be in regard to 
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 
+This week my strengths would be my ability to lead and bring together my group to allow for us to begin work on our assessment and finalise our formation. A weakness in regard to this would be actively getting group members to get work done which will hopefully improve in the coming weeks. 
+
+I also found that this week I found understanding the content at hand to be a lot easier and comprehendible.
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+Getting communication going amongst my teammates has been difficult this week, with no urgency to get any work done from everyone including myself. 
+
+### What would I do better next time and with what anticipated results?
+
+I believe I should do better next time with the communication aspect of things, encouraging group members to talk about their ideas more consistently and to possibly liven up the group chat to get some consistent conversation going about our work. I anticipate this will allow for us to finish our assessment quicker and with less stress.
+
+### What theory proved to be useful and why? What have I learnt from this?
+
+I believe the most useful theory from this module proved to be the aggregation of behaviours. This is due to the fact that by utilising this theory we are able to predict the outcomes of agents if they were to stick to their current behaviours or if they were to adapt and change. As a result a more reliable simulation can be made.
