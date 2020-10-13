@@ -109,3 +109,20 @@ I believe I could take more detailed notes as well as manage my time better. Thi
 ### What theory proved to be useful and why? What have I learnt from this?
 
 I believe the idea of agent based modelling has proved to be the most useful as it seems to be the most necessary model to simulate real world scenarios as it is based on agents that interact in a similar manner that the real world operates. This allows for an almost perfect model of the real world.
+
+# Week 5-Module 5: Aggregating decisions and behaviour
+
+### What have I learnt this week?
+
+Within module 5 I have learnt about how the notion of predicting patterns and trends within systems. I have learnt how by using patterns and trends, we are able to predict potentially detrimental outcomes through the use of modelling and as a result are able to effectively prepare and potentially find ways to prevent these outcomes.
+
+### What do I 'now know' that I did not before?
+
+I now know more about power laws as well as about long tailed distributions which can be used to track objects that are arriving back to back. This allows for analysis to take place and hence leading to effective predictions about outcomes and the probability of particular events occuring. 
+
+### What insights have I gained?
+
+I believe the most insightful aspect of this weeks module would be in regard to the TED Talk by Geoff West in regard to the use of power laws to discover the lifetimes of cities. As a result of watching this video I have come to the conclusion that diversification is what allows for cities and communities to thrive, whilst on the other hand a lack of diversity is what allows/contributes to communities (companies) to collapse.
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+
