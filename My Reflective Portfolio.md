@@ -80,7 +80,7 @@ I believe I could enhance my understanding of the concepts presented this week a
 
 The Shapley Value proved to be useful due to how it is used to calculate an individual’s value contribution to a set coalition. This is very insightful as a prediction can be made as to how positively or negatively an individual might affect a coalition if they were to be added into it. I have learnt how to measure the value of adding an individual into a coalition and whether it may be worth it or not based on the result gained from the use of the Shapley Value.
 
-# Week 4-Module 4: Representing human-centred complex systems
+# Week 4: Representing human-centred complex systems
 
 ### What have I learnt this week?
 
@@ -110,7 +110,7 @@ I believe I could take more detailed notes as well as manage my time better. Thi
 
 I believe the idea of agent based modelling has proved to be the most useful as it seems to be the most necessary model to simulate real world scenarios as it is based on agents that interact in a similar manner that the real world operates. This allows for an almost perfect model of the real world.
 
-# Week 5-Module 5: Aggregating decisions and behaviour
+# Week 5: Aggregating decisions and behaviour
 
 ### What have I learnt this week?
 
