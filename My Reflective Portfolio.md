@@ -79,3 +79,33 @@ I believe I could enhance my understanding of the concepts presented this week a
 ### What theory proved to be useful and why? What have I learnt from this?
 
 The Shapley Value proved to be useful due to how it is used to calculate an individual’s value contribution to a set coalition. This is very insightful as a prediction can be made as to how positively or negatively an individual might affect a coalition if they were to be added into it. I have learnt how to measure the value of adding an individual into a coalition and whether it may be worth it or not based on the result gained from the use of the Shapley Value.
+
+# Week 4-Module 4: Representing human-centred complex systems
+
+### What have I learnt this week?
+
+During this week I learned about the concept of system dynamics models in comparison to agent-based models. By learning this I have been able to understand how these models are applied in real life scenarios more specifically with predicting the outcome of COVID-19.
+
+### What do I 'now know' that I did not before?
+
+I now know more about the idea of feedback and loops throughout the diagrams which can help enhance my understanding of a system. By referring to diagrams I am able to visualise the system and able to explain and comprehend better the processes of the system. It is also useful as it allows me to see what the expected outcome of the system is and how to get there.
+
+### What insights have I gained?
+
+I have gained insights about how system dynamics models to model COVID-19 are ineffective when compared to agent based models. Agent based models are more effective to model real life scenarios as it can simulate a real world predicament with the use of various autonommous agents. 
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+
+I believe my perceived strengths would be how I have been able to continously take in new information and comprehend it to the best of my ability. I have perceived understanding through the use of visual diagrams to be a strength as it makes it easier to understand outcomes. A weakness would be how my understanding of the more technical side is still lacking due to the lack of experience I have in the field.
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+I believe the challenges I have encountered this week would be my lack of understanding in the more technical aspect of the content. I believe this will alleviate as my understanding of programming and modelling expands.
+
+### What would I do better next time and with what anticipated results?
+
+I believe I could take more detailed notes as well as manage my time better. This would allow for new content to be cemented in my mind and allow for me to not rush through content.
+
+### What theory proved to be useful and why? What have I learnt from this?
+
+I believe the idea of agent based modelling has proved to be the most useful as it seems to be the most necessary model to simulate real world scenarios as it is based on agents that interact in a similar manner that the real world operates. This allows for an almost perfect model of the real world.
