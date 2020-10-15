@@ -141,3 +141,33 @@ I believe I should do better next time with the communication aspect of things, 
 ### What theory proved to be useful and why? What have I learnt from this?
 
 I believe the most useful theory from this module proved to be the aggregation of behaviours. This is due to the fact that by utilising this theory we are able to predict the outcomes of agents if they were to stick to their current behaviours or if they were to adapt and change. As a result a more reliable simulation can be made.
+
+# Week 6: How complex systems evolve in time
+
+### What have I learnt this week? 
+
+During this week I learnt about Markov models and how they are used to measure the evolution of a system over a period of time. I also learnt about how the random walk models and how useful they are in business scenarios such as simulating the stock market.
+
+### What do I 'now know' that I did not before?
+
+I now know about the Granovetter Theory that declares that every individual has a threshold that when crossed will perform a certain action. Individuals with lower thresholds are more likely to riot whereas individuals with higher thresholds are less likely to riot unless there is a larger number of people rioting which lowers the barrier to entry. This notion can be applied to buyers deciding the potential thresholds of customers.
+
+### What insights have I gained?
+
+During this weeks module I have gained insight into how multiple models can be applied to one problem which backs the idea of many model thinking. 
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+
+My perceived strengths over this week has been getting on top of content in this subject to ensure I am as successful as I can be. A weakness I have observed is a lack of work done to move on with the assessment task both within myself and my groups.
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+Challenges encountered this week include how my group and I haven't come up with any sort of ideas for our assessment thus far. This will hopefully be changing by next week.
+
+### What would I do better next time and with what anticipated results?
+
+I would set a due date or benchmarks for group members to do work as well as for myself as it creates a sense of urgency for us to get started with the necessary work. 
+
+### What theory proved to be useful and why? What have I learnt from this?
+
+The theory that proved to be most useful to me would be the Granovetter Theory. I believe this theory is most useful because it is basically a simulation of real life as for example: the more that are dancing on a dance floor, the more comfortable everyone else becomes and joins in, hence proving the Granovetter Theory with increased numbers lowering the barrier to entry.
