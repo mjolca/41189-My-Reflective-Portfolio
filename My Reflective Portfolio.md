@@ -171,3 +171,33 @@ I would set a due date or benchmarks for group members to do work as well as for
 ### What theory proved to be useful and why? What have I learnt from this?
 
 The theory that proved to be most useful to me would be the Granovetter Theory. I believe this theory is most useful because it is basically a simulation of real life as for example: the more that are dancing on a dance floor, the more comfortable everyone else becomes and joins in, hence proving the Granovetter Theory with increased numbers lowering the barrier to entry.
+
+# Week 7: Complexity and emergent behaviour (Part 1)
+
+### What have I learnt this week?
+
+During this module I have gained greater insight into the Granovetter's model as well as the standing ovation model. During the lecture I learnt about how agents interact with each other and how the behaviours are altered as a result of the behaviour of neighbouring agents that are in the simulation.
+
+### What do I 'now know' that I did not before?
+
+I now know more about  models such as the schelling's segregation model which relates to agent based models. I now know about how this model is significant due to how it describes segregation based on factors of agents and their behaviours.
+
+### What insights have I gained?
+
+Insights gained this week include how the segregation and riot models can all be applied to basically all situations where a decision must be made by an individual, this can be applied in all aspects of life both within this subject as well as in life in general such as for eg the stock market. 
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+
+I believe my strengths this week has been my willingness to do the assignment when majority of my group has been very unresponsive. I have taken intitiative and declared myself group leader as well as select the final topic for my group to work on in the assignment. Weaknesses this week would be how ineffective this week has been to bring my group together.
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+Challenges observed this week include getting some sort of progress done with the assignment. This has been handled by having a group call with every group member as well as delegating work evenly amongst all group members so that everyone can work at their own pace and get all the work done on time.
+
+### What would I do better next time and with what anticipated results?
+
+I would reduce the reliance my group has on me chasing them up for work next time and would anticipate that everyone will get the work done on time for any future progress to do with the assignment.
+
+### What theory proved to be useful and why? What have I learnt from this?
+
+The content which I believe proved most useful would be the application of Schelling's model and how to model it myself. Through the use of an application called NetLogo, I believe this model will be very useful for the assignment as I am able to use the code to guide me through the modelling process for the assignment.
