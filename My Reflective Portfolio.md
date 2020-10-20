@@ -201,3 +201,33 @@ I would reduce the reliance my group has on me chasing them up for work next tim
 ### What theory proved to be useful and why? What have I learnt from this?
 
 The content which I believe proved most useful would be the application of Schelling's model and how to model it myself. Through the use of an application called NetLogo, I believe this model will be very useful for the assignment as I am able to use the code to guide me through the modelling process for the assignment.
+
+# Week 8: Complexity and emergent behaviour (Part 2)
+
+### What have I learnt this week?
+
+During this week I learnt about the GitHub push/pull feature and learnt how to link it to my JupyterLab so that I can push and pull commits really easily and quickly. Initially this was difficult to do with the installation of multiple plug ins that didn't work for me initially, but with persistence I was able to do so. I also learnt about the Colonel Blotto game as well as the prisoner's dilemma which combine economic decision making with individual psychological processes to make decisions.
+
+### What do I 'now know' that I did not before?
+
+I now know about the various strategies which can be applied to provide the most acceptable game outcomes for individuals involved. This is most prominent in the tit-for-tat strategy within the prisoner's dilemma theory, which encourages cooperation between agents involved, using a punishing but forgiving method. 
+
+### What insights have I gained?
+
+Insights gained this week would be the prisoner's dilemma theory's rule, in regard to establishing this theory's process based on agents and how each decision will receive a different result that decides to either colaborate or defect. 
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+
+My perceived strengths this week has been my willingness to get all my work done for the assignment as well as being able to understand the content being mentioned. Weaknesses observed this week would be not being able to bring my group together effectively enough to get the assignment done.
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+Challenges encountered this week mainly consisted of completing the work on time and allowing for my team to put all the work together. I believe there was a lot of miscommunication within my team as well as not being able to set up the Jupyter Lab properly which forced us to submit the assignment as a PDF document.
+
+### What would I do better next time and with what anticipated results?
+
+Next time I will ensure I have the Jupyter Lab ready and formatted correctly so that my team doesn't have an excuse to not have their work put into the notebook progressively to reduce demand on myself to stop copying and pasting their work. I anticipate this will allow for my team to add in pieces of work consistently with less stress.
+
+### What theory proved to be useful and why? What have I learnt from this?
+
+The theory which proved to be most useful would be the Colonel Blotto game as it can be applied to anyone to encourage them to be successful as it helps to recognise an individual doesn't need to be the most skilled in order to succeed at something.
