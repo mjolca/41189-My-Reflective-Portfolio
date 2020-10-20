@@ -262,17 +262,27 @@ I would search medium.com for help or use stack in order to help me get by the p
 
 ### What have I learnt this week?
 
+This week my group and I received feedback from other classmates which allowed for us to reflect on our report thus far. I was able to take in insights about spelling errors as well as just the overall structure of the report that hopefully my group and I can take advantage of and try to improve upon.
+
 ### What do I 'now know' that I did not before?
+
+I learnt about how effectively the issues tab works in Github and how eaily I am able to create and resolve issues keeping all notes in the cloud. I learnt that I am able to use the '@' function and directly assign someone to an issue. 
 
 ### What insights have I gained?
 
+I have gained insight into how many resources we have at our disposal to try and receive the best mark we can possibly get. This includes stack overflow and medium as well as geeks for geeks. 
+
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
+
+I believe my strengths this week was my persistence in formatting the JupyterLab correctly and ensuring my group members all gave Github installed on their devices as well as a clone of the repository. This week I believe I also lead my team well as I taught them all how to use JupyterLab and Github concisely. 
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
+Challenges observed this week was being able to get all group members to meet at a set time as our schedules differ greatly, this was overcome by agreeing to meet the following week the day before our workshop.
+
 ### What would I do better next time and with what anticipated results?
 
-### What theory proved to be useful and why? What have I learnt from this?
+I believe I could schedule meetings with my group more effectively but this is also reliant on how well the rest of my group communicates. I believe having a more clear cut schedule will allow for us to get work done prior to those meetings increasing our overall efficiency.
 
 # Week 11
 
