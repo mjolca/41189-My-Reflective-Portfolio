@@ -236,17 +236,27 @@ The theory which proved to be most useful would be the Colonel Blotto game as it
 
 ### What have I learnt this week?
 
+During this week the workshop was structured differently as it didn't really show any new content. This week we mainly focused on giving feedback in the form of GitHub issues as well as resolving any feedback received
+
 ### What do I 'now know' that I did not before?
+
+I didn't know how I was going to implement the code into my JupyterLab up until this week with sir showing us how to add in the code rather than a markdown box.
 
 ### What insights have I gained?
 
+Insights gained this week include how I have realised that in order to be successful in this assignment I must have a decent understanding of python and the implementation of python code in order to get my models up and running.
+
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
+
+My perceived strengths this week has been my persistence to keep trying even when technology hasn't been on my side this week or in previous weeks in order to get the work done. 
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
+Challenges encountered this week would be my group and I's understanding of what's expected in the next section of the assignment and how we would rectify our worries. We handled this by asking Juan for help which allowed for us to understand how to layout the rest of the assignment.
+
 ### What would I do better next time and with what anticipated results?
 
-### What theory proved to be useful and why? What have I learnt from this?
+I would search medium.com for help or use stack in order to help me get by the programming parts of the assignment. If I struggle with either of these options my next option would be to contact Juan for help. This would allow for my learning to take place and if I am unable to resolve problems on my own, Juan will be able to point me in the right direction as he has throughout the semester. 
 
 # Week 10
 
