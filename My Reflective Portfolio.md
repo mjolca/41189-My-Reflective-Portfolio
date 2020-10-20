@@ -231,3 +231,51 @@ Next time I will ensure I have the Jupyter Lab ready and formatted correctly so 
 ### What theory proved to be useful and why? What have I learnt from this?
 
 The theory which proved to be most useful would be the Colonel Blotto game as it can be applied to anyone to encourage them to be successful as it helps to recognise an individual doesn't need to be the most skilled in order to succeed at something.
+
+# Week 9
+
+### What have I learnt this week?
+
+### What do I 'now know' that I did not before?
+
+### What insights have I gained?
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+### What would I do better next time and with what anticipated results?
+
+### What theory proved to be useful and why? What have I learnt from this?
+
+# Week 10
+
+### What have I learnt this week?
+
+### What do I 'now know' that I did not before?
+
+### What insights have I gained?
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+### What would I do better next time and with what anticipated results?
+
+### What theory proved to be useful and why? What have I learnt from this?
+
+# Week 11
+
+### What have I learnt this week?
+
+### What do I 'now know' that I did not before?
+
+### What insights have I gained?
+
+### What are (my/the) perceived strengths and weaknesses that I have observed?
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+### What would I do better next time and with what anticipated results?
+
+### What theory proved to be useful and why? What have I learnt from this?
