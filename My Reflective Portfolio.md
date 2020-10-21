@@ -288,14 +288,16 @@ I believe I could schedule meetings with my group more effectively but this is a
 
 ### What have I learnt this week?
 
-### What do I 'now know' that I did not before?
+This week we had a vote to extend our assessment deadline adding another 2 weeks from the original deadline thanks to Juan. This allows more time for my group and I to utilise Jupyter as well as being able to focus solely on the assignment once the semester finishes and I have submitted my work for all my other subjects.
 
 ### What insights have I gained?
 
+I gained insight about how to apply pre existing code to my JupyterLab in order to save time. 
+
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 
-### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+I believe this week my strengths have been my leadership with how I have been assigning work for me and my group members to do, delegating the work evenly amongst all of us. 
 
 ### What would I do better next time and with what anticipated results?
 
-### What theory proved to be useful and why? What have I learnt from this?
+For next time I will organise more voice calls with all my group members as it seems to be the best way to get across all of our ideas and I expect this would allow for us to create a more concise report.
